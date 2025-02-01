@@ -1,6 +1,6 @@
 # Spotify Imersão Alura
 
-## Criação de uma página inspirado no Spotify
+## Criação de uma página inspirada no Spotify
 
 #### Sobre o projeto 
 
@@ -13,4 +13,4 @@
 **HTML** (linguagem de marcação), **CSS** (linguagem de estilo), **JAVASCRIPT** (linguagem de script) e **VUE** (framework JavaScript) e uma **API JSON**.
 
 #### Licença
-* Este projeto é distribuído sob a licença Boost Software License 1.0. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+* Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
